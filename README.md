@@ -26,18 +26,12 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-  <a href="https://github.com/DevXign">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DevXign&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" alt="DevXign's Stats"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevXign&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages"/>
-  </a>
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DevXign&theme=tokyonight" alt="DevXign's Profile Details" />
 </div>
-
 <br>
-
-## ⚡ Streak Stats
-
 <div align="center">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=DevXign&theme=tokyonight&hide_border=true" alt="Streak Stats" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=DevXign&theme=tokyonight" alt="DevXign's Stats" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=DevXign&theme=tokyonight" alt="Productive Time" />
 </div>
 
 <br>
