@@ -5,7 +5,7 @@
 <h1 align="center">Hi there, I'm <a href="https://github.com/DevXign">DevXign</a> 👋</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2196F3&background=00000000&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;React+%26+React+Native+Enthusiast;Creative+UI%2FUX+Designer;Turning+Ideas+into+Reality" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2196F3&background=00000000&center=true&vCenter=true&width=435&lines=Developer+X+Designer;Full+Stack+Developer;React+%26+React+Native+Enthusiast;Turning+Ideas+into+Reality" alt="Typing SVG" />
 </p>
 
 <p align="center">
