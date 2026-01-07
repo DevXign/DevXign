@@ -1,4 +1,7 @@
 <div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=header" width="100%"/>
+</div>
+<div align="center">
   <!-- Futuristic Coding Animation -->
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%" height="300" style="object-fit:cover; border-radius: 10px;"/>
   <!-- Alternative if the above is too generic, a neon city or cyberpunk vibe works well for "Futuristic" -->
