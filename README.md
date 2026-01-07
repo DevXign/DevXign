@@ -7,7 +7,7 @@
   <!-- Alternative if the above is too generic, a neon city or cyberpunk vibe works well for "Futuristic" -->
 </div>
 
-<h1 align="center">Hi there, I'm <a href="https://github.com/DevXign">DevXign</a> <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand/Waving%20Hand.png" alt="Waving Hand" width="35" height="35" /></h1>
+<h1 align="center">Hi there, I'm <a href="https://github.com/DevXign">DevXign</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" alt="Waving Hand" width="35" height="35" /></h1>
 
 <h2 align="center">👨‍💻 Developer X Designer 🎨</h2>
 
