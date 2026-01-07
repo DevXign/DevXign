@@ -73,12 +73,9 @@
 ## � GitHub Stats
 
 <div align="center">
-  <!-- Profile Summary Cards -->
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DevXign&theme=tokyonight" alt="Profile Details" />
-  <br><br>
-  <!-- Readme Stats with Transparent BG to blend with Dark Mode -->
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=DevXign&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000" alt="Stats" />
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevXign&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000" alt="Languages" />
+  <!-- GitHub Stats -->
+  <img src="https://github-readme-stats.vercel.app/api?username=DevXign&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="DevXign's Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevXign&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="Top Languages" />
 </div>
 
 <br>
