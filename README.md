@@ -1,6 +1,4 @@
-<div align="center">
-  <img src="brand.jpg" alt="DevXign Banner" width="100%" />
-</div>
+
 
 <h1 align="center">Hi there, I'm <a href="https://github.com/DevXign">DevXign</a> 👋</h1>
 
