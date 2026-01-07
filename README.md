@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=header" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Pallavi%20Jadar&fontSize=80&fontColor=ffffff&animation=fadeIn&fontAlignY=35" width="100%"/>
 </div>
 <div align="center">
   <!-- Futuristic Coding Animation -->
