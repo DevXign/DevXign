@@ -24,7 +24,7 @@
 <br>
 
 <div align="center">
-    <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Rocket.png" alt="Rocket" width="50" height="50" />
+    <img src="https://media.giphy.com/media/Wj7lNjMNDxSmc/giphy.gif" alt="Rocket" width="50" height="50" />
 </div>
 
 ### <div align="center">🚀 About Me</div>
@@ -73,9 +73,8 @@
 ## � GitHub Stats
 
 <div align="center">
-  <!-- GitHub Stats -->
-  <img src="https://github-readme-stats.vercel.app/api?username=DevXign&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="DevXign's Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevXign&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="Top Languages" />
+  <!-- GitHub Activity Graph -->
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=DevXign&theme=tokyo-night" alt="Activity Graph" />
 </div>
 
 <br>
